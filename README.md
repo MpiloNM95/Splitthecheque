@@ -110,6 +110,6 @@ struct ContentView_Previews: PreviewProvider {
 ```
 The image of the app on iPhone 14 pro max:
 
-<img src = "desktop/Home.png" alt = "Alt Text" title = "Home Screen">
+<img src = "desktop/to/Home.png" title = "Home Screen">
 ---
-<img src = "desktop/Split_the_cheque.png" title= "User Interfeace for App">
+<img src = "desktop/to/Split_the_cheque.png" title= "User Interfeace for App">
