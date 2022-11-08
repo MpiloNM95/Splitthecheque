@@ -112,4 +112,4 @@ The image of the app on iPhone 14 pro max:
 
 <img src="desktop/Home.png" alt="Alt Text" title="Home Screen">
 ---
-<img src="desktop/Split_the_cheque.png" alt="Alt text" title="User Interfeace for App"
+<img src="desktop/Split_the_cheque.png" alt="Alt text" title="User Interfeace for App">
