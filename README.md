@@ -109,7 +109,8 @@ struct ContentView_Previews: PreviewProvider {
 }
 ```
 The image of the app on iPhone 14 pro max:
+![Home](https://user-images.githubusercontent.com/87414441/200576765-3246c3dd-d24c-452d-973c-467a98f2f716.png)
 
-<img src = "desktop/to/Home.png" title = "Home Screen">
----
-<img src = "desktop/to/Split_the_cheque.png" title= "User Interfeace for App">
+![User Interface](https://user-images.githubusercontent.com/87414441/200577346-87525f0a-0b4a-4275-a882-38758d933183.png)
+
+
